@@ -29,11 +29,9 @@ jobs:
           cache-dependency-path: package-lock.json
 
       - name: Install dependencies
-        working-directory: landing
         run: npm install
 
       - name: Build
-        working-directory: landing
         run: npm run build
 
       - name: Setup Pages
