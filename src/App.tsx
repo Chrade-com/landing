@@ -110,11 +110,11 @@ export default function App() {
           <div className="hero-copy">
             <div className="hero-eyebrow">
               <span className="eyebrow-pill">Chrade.com</span>
-              <span className="eyebrow">Chrade.com is building Cursor for Trading</span>
+              <span className="eyebrow">AI chat for traders</span>
             </div>
             <h1>
               Research trades with{" "}
-              <span className="accent accent-nowrap">editor-grade precision</span>.
+              <span className="accent accent-nowrap">superintelligent agents</span>.
             </h1>
             <p className="subhead">
               Chrade pairs real-time market intelligence, structured data,
