@@ -119,7 +119,7 @@ export default function App() {
             <p className="subhead">
               Chrade pairs real-time market intelligence, structured data,
               and strategy automation so your team moves from idea to execution
-              without the busywork. <strong>Coming soon to a command line near you.</strong>
+              without the busywork.
             </p>
             <div className="hero-highlights" aria-label="Highlights">
               <div className="highlight-card">
