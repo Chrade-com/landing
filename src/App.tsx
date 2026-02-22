@@ -87,7 +87,7 @@ export default function App() {
         </nav> */}
         <div className="nav-cta">
           <a
-            href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+            href="https://x.com/NicitaAlex"
             target="_blank"
             rel="noopener noreferrer"
             className="btn ghost"
@@ -243,7 +243,7 @@ export default function App() {
           </div>
           <div className="mobile-cta" aria-label="Get access">
             <a
-              href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+              href="https://x.com/NicitaAlex"
               target="_blank"
               rel="noopener noreferrer"
               className="btn ghost"
